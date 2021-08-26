@@ -1,4 +1,4 @@
-*.rb linguist-language=Lua
+
 script.Parent.MouseButton1Click:Connect(function() -- GUI click function
 	script.Parent.Visible = false --Fancy text
 	script.Parent.Parent.Code.Text = "<Firing Server>" --Fancy text
